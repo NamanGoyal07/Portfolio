@@ -48,7 +48,7 @@ I am a pre-final year student at Indian Institute of Technology, Guwahati. I lik
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adriraj2000&show_icons=true&theme=gotham" alt="adriraj_c" />
+<!--<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=adriraj2000&show_icons=true&theme=gotham" alt="adriraj_c" />
 
 
 ### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
